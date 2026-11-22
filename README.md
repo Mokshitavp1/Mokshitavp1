@@ -4,7 +4,7 @@
 
 **I build and ship AI/ML products that turn real-world problems into usable software.**
 
-Third-year B.Tech student in Artificial Intelligence & Machine Learning at Symbiosis Institute of Technology, Hyderabad, targeting ML/AI internships at top technology companies.
+
 
 </div>
 
