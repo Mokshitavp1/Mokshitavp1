@@ -16,7 +16,6 @@ I build AI-powered software that turns complex problems into practical products.
 ### AI & Intelligent Agents
 
 - [Docket](https://github.com/Mokshitavp1/docket) — Meeting intelligence that turns transcripts into tasks, owners, and deadlines.
-- [Devil's Advocate](https://github.com/Mokshitavp1/Devil-s_Advocate) — An adversarial AI debate partner that challenges assumptions and sharpens critical thinking.
 - [Fashion Assistant](https://github.com/Mokshitavp1/fashion_assistant) — AI-powered wardrobe management and personalized outfit recommendations.
 
 ### Data & Computer Vision
