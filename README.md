@@ -9,32 +9,39 @@
 
 </div>
 
-I enjoy turning ideas into useful products—from computer vision and flash-flood intelligence to meeting automation, fashion assistants, and adversarial AI tools.
+I build AI-powered software that turns complex problems into practical products. My work spans computer vision, intelligent agents, NLP, meeting automation, data-driven alert systems, and developer tools.
 
 ## 🚀 Featured projects
 
-| Project | What it does |
-|---|---|
-| [Docket](https://github.com/Mokshitavp1/docket) | Meeting intelligence that turns transcripts into tasks, owners, and deadlines |
-| [Devil's Advocate](https://github.com/Mokshitavp1/Devil-s_Advocate) | An adversarial AI debate partner for sharper critical thinking |
-| [Fashion Assistant](https://github.com/Mokshitavp1/fashion_assistant) | AI-powered wardrobe and outfit recommendations |
-| [Document Classification](https://github.com/Mokshitavp1/Document_classification) | Machine-learning document classification pipeline |
-| [Flash Flood Warning System](https://github.com/Mokshitavp1/flash_flood_warning_system) | Python-based flood risk detection and warning system |
+### AI & Intelligent Agents
+
+- [Docket](https://github.com/Mokshitavp1/docket) — Meeting intelligence that turns transcripts into tasks, owners, and deadlines.
+- [Devil's Advocate](https://github.com/Mokshitavp1/Devil-s_Advocate) — An adversarial AI debate partner that challenges assumptions and sharpens critical thinking.
+- [Fashion Assistant](https://github.com/Mokshitavp1/fashion_assistant) — AI-powered wardrobe management and personalized outfit recommendations.
+
+### Data & Computer Vision
+
+- [Document Classification](https://github.com/Mokshitavp1/Document_classification) — A machine-learning pipeline for document classification.
+- [Flash Flood Warning System](https://github.com/Mokshitavp1/flash_flood_warning_system) — A Python-based system for identifying flood risk and supporting timely alerts.
+- [Acoustic Sonar](https://github.com/Mokshitavp1/acoustic_sonar) — Experiments in machine learning for sonar signal classification.
 
 ## 🛠️ Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Agents-ff6f00?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-7F52FF?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge" alt="AI agents">
+  <img src="https://img.shields.io/badge/Computer%20Vision-7F52FF?style=for-the-badge" alt="Computer vision">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0081CB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine learning">
+</p>
 
 ## 📊 GitHub activity
 
 <div align="center">
 
-![Mokshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokshitavp1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshitavp1&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mokshitavp1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mokshita's GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshitavp1&layout=compact&theme=tokyonight&hide_border=true" alt="Mokshita's top languages">
 
 </div>
 
